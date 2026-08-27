@@ -1,1 +1,3 @@
 welcome to cdd
+this is my first cdd lab
+this is my first program
